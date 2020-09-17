@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2019/03/cropped-MV-2019-BLA-2.png" group-title="Argentina", Multivision Federal (Argentina)
+https://200.80.158.36/cgi-bin/encoder_hls?id=0&user=admin&perfil=alta&password=admin&a.m3u8
